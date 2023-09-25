@@ -18,14 +18,6 @@ Aggregations and Data Manipulation Tasks
 
 Visualizations
 
-Contributing
-
-License
-
-Contact
-
-Acknowledgements
-
 # Installation
 
 Clone the repo
